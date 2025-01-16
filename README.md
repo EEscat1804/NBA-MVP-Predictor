@@ -52,10 +52,10 @@ The following table shows the performance of various models, both with and witho
 | Baseline                     | 0.062202                   | 0.061709	                 | 0.000000| 0.058113|
 | Baseline with PCA            | 0.062202                   | 0.061709	                 | 0.000000| 0.058113|
 
-#### Top Model Insights
+#### Takeaways
 
-- **XGB without PCA**: Best performance with MAP@K of 0.008042 and RMSE of 0.018860.
-- **Feature Importance**: Key features include VORP, Win Shares, and PER. Metrics like Losses and Games Behind have less impact.
+- **XGB without PCA**: Out of all the models had the best performence with a MAP@K of 0.007677 and a RMSE of 0.031351.
+- There was slight variation between the models with PCA and the models without PCA some performed better while others performed similarity. Lasso performed the same while Random Forest with PCA performed better than Random Forest without PCA.
 
 ### Example Predictions
 
