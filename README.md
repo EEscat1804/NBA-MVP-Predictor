@@ -70,10 +70,6 @@ The XGB model without PCA made accurate predictions for the top MVP candidates:
 
 <img width="475" alt="image" src="https://github.com/user-attachments/assets/1422189f-3205-4b91-ad01-0af45832a0f0" />
 
-## Discussion
-
-The XGB and Random Forest models performed well, even though PCA did not improve results. The models effectively predicted the top MVP candidates but showed less accuracy for lower-ranked players. Future work will include enhancing feature sets and refining predictions for lower-ranked candidates.
-
 ## Conclusion
 
-The XGB and Random Forest models were effective in predicting MVP candidates, leveraging ensemble methods to capture complex data relationships. While PCA did not enhance model performance, the insights gained from feature analysis were valuable.
+By using a lot of different machine learning algorithims we were able to get an accurate prediction of who the MVP might be. The models with the PCA did not necessarily outperform the models without PCA. I was able to learn how to graph many different data points at once and how to relate each data point together. As someone who just started watching the NBA more and trying to figure out who the best players were, this project allowed me to learn a lot about the sport and how one can measure how good a player is. Referring to mvp predictions from sources like the NBA itself and espn it is safe to say that this model puts the same group of people at the top of the MVP leaderboard.
