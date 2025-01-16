@@ -9,11 +9,13 @@ This project focuses on predicting NBA MVP candidates using machine learning mod
 The dataset includes features such as:
 - **Player Name**: Name of the player
 - **Year**: NBA season year
-- **VORP**: Value Over Replacement Player
-- **Win Shares**: Win Shares
-- **PER**: Player Efficiency Rating
+- **MP**: Minutes Played
+- **FG%**: Field Goal %
+- **PTS**: Points
 - **Losses**: Number of losses
-- **Games Behind**: Games behind the leader
+- **TOV**: Turnovers
+
+complete list of data points can be found at mvp_prediction_machine_learning.ipynb
 
 ## Experiments
 
