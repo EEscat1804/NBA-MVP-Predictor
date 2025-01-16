@@ -68,6 +68,8 @@ The XGB model without PCA made accurate predictions for the top MVP candidates:
 - Luka Dončić: Predicted 4th, Actual 3rd
 - Giannis Antetokounmpo: Predicted 3rd, Actual 4th
 
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/1422189f-3205-4b91-ad01-0af45832a0f0" />
+
 ## Discussion
 
 The XGB and Random Forest models performed well, even though PCA did not improve results. The models effectively predicted the top MVP candidates but showed less accuracy for lower-ranked players. Future work will include enhancing feature sets and refining predictions for lower-ranked candidates.
