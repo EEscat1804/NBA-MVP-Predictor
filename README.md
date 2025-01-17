@@ -75,3 +75,9 @@ The XGB model without PCA made accurate predictions for the top MVP candidates:
 By using a lot of different machine learning algorithims we were able to get an accurate prediction of who the MVP might be. The models with the PCA did not necessarily outperform the models without PCA. I was able to learn how to graph many different data points at once and how to relate each data point together. As someone who just started watching the NBA more and trying to figure out who the best players were, this project allowed me to learn a lot about the sport and how one can measure how good a player is. Referring to mvp predictions from sources like the NBA itself and espn it is safe to say that this model puts the same group of people at the top of the MVP leaderboard.
 
 Ways to improve would be using more recent data like from the most recent season since I am only using data that is up to the 2023-2024 season to get a more accurate result as to how these players are performing. Also take into account injuries and how many games a player might miss. Also showing more graphs would help for visual learners in some parts of the project there are a lot of numbers on the screen and it can be difficult to break down what these numbers mean.
+
+## References
+https://www.youtube.com/watch?v=JGQGd-oa0l4
+https://www.youtube.com/watch?v=3cn1nHlbFVw&t=2088s
+
+
