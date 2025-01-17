@@ -3,6 +3,7 @@
 ## Introduction
 
 This project focuses on predicting NBA MVP candidates using machine learning models. The goal is to identify and rank the top MVP candidates based on various player statistics.
+We can train this model from analyzing 30+ seasons and 20+ different player statistics to figure out who is worthy of being crowned the next NBA MVP.
 
 ### Data
 
