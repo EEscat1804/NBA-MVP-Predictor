@@ -79,5 +79,6 @@ Ways to improve would be using more recent data like from the most recent season
 ## References
 1. [WebScraping](https://www.youtube.com/watch?v=JGQGd-oa0l4)
 2. [Predicting the NBA MVP with Machine Learning](https://www.samford.edu/sports-analytics/fans/2023/Using-Machine-Learning-to-Predict-the-NBA-MVP#:~:text=Model%20Explanation%20and%20MSE,a%20reliable%20and%20accurate%20prediction.)
+3. [Different Machine Learning Algorithms](https://www.geeksforgeeks.org/machine-learning-algorithms/)
 
 
