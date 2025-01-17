@@ -77,7 +77,8 @@ By using a lot of different machine learning algorithims we were able to get an 
 Ways to improve would be using more recent data like from the most recent season since I am only using data that is up to the 2023-2024 season to get a more accurate result as to how these players are performing. Also take into account injuries and how many games a player might miss. Also showing more graphs would help for visual learners in some parts of the project there are a lot of numbers on the screen and it can be difficult to break down what these numbers mean.
 
 ## References
-https://www.youtube.com/watch?v=JGQGd-oa0l4
-https://www.youtube.com/watch?v=3cn1nHlbFVw&t=2088s
+1) https://www.youtube.com/watch?v=JGQGd-oa0l4
+   
+2) https://www.youtube.com/watch?v=3cn1nHlbFVw&t=2088s
 
 
